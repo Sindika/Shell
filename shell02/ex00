@@ -1,8 +1,6 @@
-#include <cstdio>
- 
-int main ()
+ int main ()
 {
-  for (char c = 'A' ; c <= 'Z' ; c++)
-      putchar(c);   // вывод на экран символ внглийского алфавита
+  for (char c = 'a' ; c <= 'z' ; c++)
+      putchar(c);
   return 0;
 }
