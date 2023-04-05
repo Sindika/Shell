@@ -1,4 +1,4 @@
-int#include <stdio.h>
+#include <stdio.h>
 int ft_putchar(char c);
 
 void main()
